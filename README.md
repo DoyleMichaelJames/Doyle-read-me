@@ -1,2 +1,5 @@
 # Doyle-read-me
-Quip link for Zapier internal discussion: https://zapier.quip.com/eQ19ASH29cCB
+
+Zapier employees can refer to Async directory: https://async.zapier.com/directory/profile/michaeldoyle
+
+Everyone else can view my LinkedIn: https://www.linkedin.com/in/doylemichaeljames/
