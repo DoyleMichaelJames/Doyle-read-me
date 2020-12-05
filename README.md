@@ -1,5 +1,5 @@
 # Doyle-read-me
 
-Zapier employees can refer to Async directory: https://async.zapier.com/directory/profile/michaeldoyle
+Zapier colleagues can refer to my Async profile.
 
-Everyone else can view my LinkedIn: https://www.linkedin.com/in/doylemichaeljames/
+Everyone can view my LinkedIn: https://www.linkedin.com/in/doylemichaeljames/
