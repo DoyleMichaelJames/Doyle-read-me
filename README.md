@@ -5,6 +5,6 @@ Zapier colleagues can refer to my Async profile as a ReadMe: https://async.zapie
 Everyone can view my LinkedIn: https://www.linkedin.com/in/doylemichaeljames/ 
 
 - Growth Product Manager;
-- some certificates in scrum, UX design; 
+- certificates in scrum, UX design; 
 - experience in tech support, independent filmmaking;
 - I mostly post memes.
