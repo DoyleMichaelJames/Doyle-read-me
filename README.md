@@ -1,10 +1,5 @@
 # Doyle-read-me
 
-Zapier colleagues can refer to my Async profile as a ReadMe: https://async.zapier.com/directory/profile/michaeldoyle
+9 years tech experience, 7 years remote, agile product management, low code, APIs, QA, UX, B2B, health IT, SaaS pricing, revenue optimization, billing infrastructure, data analysis, rapid specialization
 
-Everyone can view my LinkedIn: https://www.linkedin.com/in/doylemichaeljames/ 
-
-- Growth Product Manager;
-- certificates in scrum, UX design; 
-- experience in tech support, independent filmmaking;
-- I mostly post memes.
+[https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
