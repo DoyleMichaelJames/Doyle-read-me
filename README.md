@@ -2,7 +2,7 @@
 
 This GitHub ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
 
-**Summary:** 10-years tech experience, in Marketing then Tech Support then **Product Management**. Enjoy QA, SQL, TTRPG. Always eager to learn and happy to help.
+**Summary:** 10-years experience, in Marketing then Tech Support then **Product Management**. Enjoy QA, SQL, TTRPG. Always eager to learn and happy to help.
 
 ---
 
