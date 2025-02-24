@@ -2,6 +2,8 @@
 
 This GitHub ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
 
+**Summary:** 10-years tech experience, in Marketing then Tech Support then **Product Management**. Enjoy QA, SQL, TTRPG. Always eager to learn and happy to help.
+
 ---
 
 My first tech job was Marketing, at a 20-year-old company with only 9 people, building a suite of on-premise healthcare and regulatory softwares, while migrating the existing government customers to cloud SaaS. The team taught me some hello-world JS, and why an adventurer would **roll `2d6` rather than `1d12`** (to ship long-term investments for calculated results). I wrote a good joke about Jenkins.
