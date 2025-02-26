@@ -12,7 +12,7 @@ This GitHub ReadMe is intended for **software developers.** You might see also L
 
 My first tech job was Marketing, at a 20-year-old company with only 9 people, building a suite of on-premise healthcare and regulatory softwares, while migrating the existing government customers to cloud SaaS. The team taught me some hello-world JS, and why an adventurer would **roll `2d6` rather than `1d12`** (for long-term investments in calculated results). I wrote a good joke about Jenkins.
 
-I worked **Technical Support** then **Product Management** during scale-up at **Zapier** (YC B2B, growing from 100 to 1,000 people). I read roughly 1 million API docs and wrote 1. I learned a bespoke coding language to hackathon a 1-screen app (to add hyperlinks to Slack channel descriptions). I ran postmortems for infrastructure teams, operationalized runbooks for outages, and led the app’s first price-change migrations.
+I worked **Technical Support** then **Product Management** during scale-up at **Zapier** (YC AI B2B, growing from 100 to 1,000 people). I read roughly 1 million API docs and wrote 1. I learned a bespoke coding language to hackathon a 1-screen app (to add hyperlinks to Slack channel descriptions). I ran postmortems for infrastructure teams, operationalized runbooks for outages, and led the app’s first price-change migrations.
 
 I **PM**’d with teams using AWS–Python–React stacks. The team taught me to commit a few 1-line tweaks, but mostly I **QA**’d pull requests, and regression tested our high-stakes releases. I wrote (slash copy-pasted) a lot of **SQL** queries, tho more often I built dashboards in data studios, and/or scraped together spreadsheets --- I love to measure our work to quantify our impact.
 
