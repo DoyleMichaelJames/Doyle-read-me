@@ -6,7 +6,8 @@ This GitHub ReadMe is intended for **software developers.** You might see also L
 
 - 10-years experience, in Marketing then Tech Support then **Product Management**;
 - enjoy QA, SQL, TTRPG;
-- always eager to learn and happy to help.
+- night courses in UX, SCRUM, monetization;
+- always eager to learn and happy to help 🤓
 
 ---
 
@@ -22,7 +23,7 @@ I love to measure our work to quantify our impact.
 
 When I write bug reports, I provide detailed steps to recreate. 
 
-**To prioritize** bugs, backlogs, roadmaps, etc, I’ll need your help balancing 3 considerations: 1, Cost of Doing Nothing; 2, Return on Investment; and 3, Speed to Insight. 
+**To prioritize** bugs, backlogs, roadmaps, etc, I’ll need your help balancing 3 considerations: 1, Cost of Doing Nothing 💸; 2, Return on Investment 📈; and 3, Speed to Insight 💡. 
 
 **To learn** a new domain/skill, I love sandboxes, and I’ll often ask ‘false dichotomy’ brainstorm questions --- like “would we rather deploy every single hour or only once per year?” --- often to prompt meta-discussion about whether it's the right question.
 
@@ -30,4 +31,4 @@ I always hope to learn **what you think** is most important, and which questions
 
 ---
 
-If you have any info or questions for me, then you might reach me on [LinkedIn](https://www.linkedin.com/in/doylemichaeljames/), or at doyle dot michael dot james at gmail dot com --- **I'm happy to help!**
+If you have any info or questions for me, then you might reach me on [LinkedIn](https://www.linkedin.com/in/doylemichaeljames/), or at doyle dot michael dot james at gmail dot com --- **I'm happy to help!!** 🤓
