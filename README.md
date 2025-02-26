@@ -5,9 +5,8 @@ This GitHub ReadMe is intended for **software developers.** You might see also L
 **Summary:** 
 
 - 10-years experience, in Marketing then Tech Support then **Product Management**;
-- enjoy QA, SQL, TTRPG;
-- night courses in UX, SCRUM, monetization;
-- always eager to learn and happy to help 🤓
+- enjoy UX, QA, SQL, TTRPG;
+- always eager to learn and happy to help  🤓
 
 ---
 
@@ -21,7 +20,7 @@ I love to measure our work to quantify our impact.
 
 ---
 
-When I write bug reports, I provide detailed steps to recreate. 
+When I write bug reports, I provide detailed steps to recreate.
 
 **To prioritize** bugs, backlogs, roadmaps, etc, I’ll need your help balancing 3 considerations: 1, Cost of Doing Nothing 💸; 2, Return on Investment 📈; and 3, Speed to Insight 💡. 
 
