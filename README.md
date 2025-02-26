@@ -1,4 +1,4 @@
-## 2025, Doyle, ReadMe, 
+## 2025, Doyle, ReadMe, 🤓 
 
 This GitHub ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
 
@@ -16,7 +16,7 @@ I worked **Technical Support** then **Product Management** during scale-up at **
 
 I **PM**’d with teams using AWS–Python–React stacks. The team taught me to commit a few 1-line tweaks, but mostly I **QA**’d pull requests, and regression tested our high-stakes releases. I wrote (slash copy-pasted) a lot of **SQL** queries, tho more often I built dashboards in data studios, and/or scraped together spreadsheets.
 
-I love to measure our work to quantify our impact.
+I love to measure our work to quantify our impact. 📝
 
 ---
 
@@ -26,7 +26,7 @@ When I write bug reports, I provide detailed steps to recreate.
 
 **To learn** a new domain/skill, I love sandboxes, and I’ll often ask ‘false dichotomy’ brainstorm questions --- like “would we rather deploy every single hour or only once per year?” --- often to prompt meta-discussion about whether it's the right question.
 
-I always hope to learn **what you think** is most important, and which questions you need help answering. 
+I always hope to learn **what you think** is most important, and which questions you need help answering. 🤔
 
 ---
 
