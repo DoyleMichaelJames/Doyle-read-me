@@ -42,4 +42,6 @@ I always hope to learn **what you think** is most important, and which questions
 
 ### Contact
 
-If you have any info or questions for me, then you might reach me on [LinkedIn](https://www.linkedin.com/in/doylemichaeljames/), or at doyle dot michael dot james at gmail dot com --- **I'm happy to help!!** 🤓
+If you have any info or questions for me, then you might reach me on [LinkedIn](https://www.linkedin.com/in/doylemichaeljames/), or at doyle dot michael dot james at gmail dot com 
+
+--- **I'm happy to help!!** 🤓
