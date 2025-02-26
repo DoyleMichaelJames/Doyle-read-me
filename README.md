@@ -14,7 +14,7 @@ My first tech job was Marketing, at a 20-year-old company with only 9 people, bu
 
 I worked **Technical Support** then **Product Management** during scale-up at **Zapier** (YC AI B2B, growing from 100 to 1,000 people). I read roughly 1 million API docs and wrote 1. I learned a bespoke coding language to hackathon a 1-screen app (to add hyperlinks to Slack channel descriptions). I ran postmortems for infrastructure teams, operationalized runbooks for outages, and led the app’s first price-change migrations.
 
-I **PM**’d with teams using AWS–Python–React stacks. My teams taught me to commit a few 1-line tweaks, but mostly I **QA**’d pull requests, and regression tested our high-stakes releases. I wrote (slash copy-pasted) a lot of **SQL** queries, tho more often I built dashboards in data studios, and/or scraped together spreadsheets.
+I **PM**’d with teams using AWS–Python–React stacks. My teams taught me to commit a few 1-line tweaks, tho mostly I **QA**’d pull requests, and regression tested our high-stakes releases. I wrote (slash copy-pasted) a lot of **SQL** queries, tho more often I built dashboards in data studios, and/or scraped together spreadsheets.
 
 I love to measure our work to quantify our impact. 📝
 
