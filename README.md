@@ -6,7 +6,7 @@ This GitHub ReadMe is intended for **software developers.** You might see also L
 
 - 10-years experience, in Marketing then Tech Support then **Product Management**;
 - enjoy UX, QA, SQL, TTRPG;
-- always eager to learn and happy to help  🤓
+- always eager to learn and happy to help.   🤓
 
 ---
 
