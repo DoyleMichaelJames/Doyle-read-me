@@ -1,14 +1,16 @@
-## 2025, Doyle, ReadMe, 🤓 
+# 2025, Doyle, ReadMe, 🤓 
 
 This GitHub ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
 
-**Summary:** 
+## Summary 
 
 - 10-years experience, in Marketing then Tech Support then **Product Management**;
 - enjoy UX, QA, SQL, TTRPG;
 - always eager to learn and happy to help.   🤓
 
 ---
+
+## History
 
 My first tech job was Marketing, at a 20-year-old company with only 9 people, building a suite of on-premise healthcare and regulatory softwares, while migrating the existing government customers to cloud SaaS. The team taught me some hello-world JS, and why an adventurer would **roll `2d6` rather than `1d12`** (for long-term investments in calculated results). I wrote a good joke about Jenkins.
 
@@ -19,6 +21,8 @@ I **PM**’d with teams using AWS–Python–React stacks. My teams taught me to
 I love to measure our work to quantify our impact. 📝
 
 ---
+
+## Miscellaneous 
 
 When I write bug reports, I provide detailed steps to recreate.
 
@@ -33,5 +37,7 @@ When I write bug reports, I provide detailed steps to recreate.
 I always hope to learn **what you think** is most important, and which questions you need help answering. 🤔
 
 ---
+
+## Contact
 
 If you have any info or questions for me, then you might reach me on [LinkedIn](https://www.linkedin.com/in/doylemichaeljames/), or at doyle dot michael dot james at gmail dot com --- **I'm happy to help!!** 🤓
