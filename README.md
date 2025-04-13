@@ -1,6 +1,6 @@
 # 2025-Q2, Doyle, ReadMe, 🤓 
 
-This GitHub ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
+This GitHub Read Me Read-Me ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
 
 ## Summary 
 
