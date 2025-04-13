@@ -1,14 +1,12 @@
 # 2025-Q2, Doyle, ReadMe, 🤓 
 
-This GitHub Read Me Read-Me ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
-
----
-
 ## Summary 
 
 - **10-years experience**, first Marketing, then Tech Support, then Product Management;  
 - enjoy UX, QA, SQL, TTRPG; 
 - always eager to learn and happy to help.   🤓
+
+This GitHub Read Me Read-Me ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
 
 ---
 
