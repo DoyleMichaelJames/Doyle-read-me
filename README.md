@@ -22,7 +22,7 @@ I worked **Technical Support** then **Product Management** during scale-up at Za
 
 I led the app’s 1st price-change **migrations**. 💸
 
-I **PM**’d with teams using AWS–Python–React stacks. I committed a few 1-line lines, but mostly **QA**’d our releases. I wrote (slash copy-pasted) a lot of **SQL** queries --- tho more often I built dashboards in data studios and/or scraped together spreadsheets. 
+I **PM**’d with teams using AWS–Python–React stacks. I committed a few 1-liners, but mostly **QA**’d our releases. I wrote (slash copy-pasted) a lot of **SQL** queries --- tho more often I built dashboards in data studios and/or scraped together spreadsheets. 
 
 I love to experiment, so I'm skeptical of experiments. 🤔
 
