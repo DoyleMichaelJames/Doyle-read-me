@@ -22,20 +22,20 @@ I led the app’s 1st price-change **migrations**. 💸
 
 I **PM**’d with teams using AWS–Python–React stacks. I committed a few 1-line lines, but mostly **QA**’d our releases. I wrote (slash copy-pasted) a lot of **SQL** queries --- tho more often I built dashboards in data studios and/or scraped together spreadsheets. 
 
-I love to experiment, so I'm skeptical of experiments. 📝
+I love to experiment, so I'm skeptical of experiments. 🤔
 
 ---
 
 ### Miscellaneous 
 
-When I write bug reports, I provide detailed steps to recreate.
+When I write bug reports, I provide detailed steps to recreate. 📝
 
-**To prioritize** bugs, backlogs, roadmaps, etc, I’ll need your help to define: 
+To prioritize bugs, backlogs, roadmaps, etc, I’ll need your help to define: 
 
 - 1, Cost of Doing Nothing 💸;
 - 2, Time to Insight 💡; 
 
-**To learn** a new domain/skill, I love sandboxes, where I can `click first, ask questions later`. I’ll often ask ‘false dichotomy’ brainstorm questions --- like “would we rather deploy every single hour or only once per year?” --- often to prompt meta-discussion about whether it's the right question.
+**To learn** a new domain/skill, I love sandboxes, where I can `click first, ask questions later`. I’ll often ask ‘false dichotomy’ brainstorm questions --- like “would we rather deploy every single hour or only once per year?” --- often to ask whether it's the right question.
 
 I always hope to learn **what you think** is most important, and which questions you need help answering. 🤔
 
