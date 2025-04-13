@@ -18,7 +18,9 @@ My first tech job was Marketing, at a 20-year-old company with only 11 people, b
 
 I wrote a good joke about Jenkins. 🌱
 
-I worked **Technical Support** then **Product Management** during scale-up at Zapier (YC AI B2B, growing from 100 to 1,000 people). I read roughly 1 million API docs and wrote 1. I ran postmortems for infrastructure teams and operationalized chat support. I led the app’s 1st price-change **migrations**. 💸
+I worked **Technical Support** then **Product Management** during scale-up at Zapier (YC AI B2B, growing from 100 to 1,000 people). I read roughly 1 million API docs and wrote 1. I ran postmortems for infrastructure teams and operationalized chat support. 
+
+I led the app’s 1st price-change **migrations**. 💸
 
 I **PM**’d with teams using AWS–Python–React stacks. I committed a few 1-line lines, but mostly **QA**’d our releases. I wrote (slash copy-pasted) a lot of **SQL** queries --- tho more often I built dashboards in data studios and/or scraped together spreadsheets. 
 
