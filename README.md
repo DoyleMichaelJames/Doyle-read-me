@@ -30,7 +30,7 @@ I love to experiment, so I'm skeptical of experiments. 🤔
 
 ### Miscellaneous 
 
-When I write bug reports, I provide detailed steps to recreate. 📝
+When I write bug reports, I provide detailed **steps to recreate.** 📝
 
 To prioritize bugs, backlogs, roadmaps, etc, I’ll need your help to define: 
 
