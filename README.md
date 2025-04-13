@@ -6,6 +6,8 @@
 - enjoy UX, QA, SQL, TTRPG; 
 - always eager to learn and happy to help.   🤓
 
+---
+
 This GitHub Read Me Read-Me ReadMe is intended for **software developers.** You might see also LinkedIn: [https://www.linkedin.com/in/doylemichaeljames/](https://www.linkedin.com/in/doylemichaeljames/)
 
 ---
