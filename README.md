@@ -14,7 +14,7 @@ This GitHub Read Me Read-Me ReadMe is intended for **software developers.** You 
 
 ### History
 
-My first tech job was Marketing, at a 20-year-old company with only 11 people, building a suite of on-premise healthcare and regulatory softwares, while migrating to cloud SaaS. The team taught me some hello-world JS, and why an adventurer would `roll 2d6 rather than 1d12` (for **long-term investments in reliable results**). 
+My first tech job was Marketing, at a 20-year-old company of only 11 people, building a suite of on-premise healthcare and regulatory softwares, while migrating to cloud SaaS. The team taught me some hello-world JS, and why an adventurer would `roll 2d6 rather than 1d12` (for **long-term investments in reliable results**). 
 
 I wrote a good joke about Jenkins. 🌱
 
