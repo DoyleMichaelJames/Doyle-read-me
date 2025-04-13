@@ -1,6 +1,6 @@
 # 2025-Q2, Doyle, ReadMe, 🤓 
 
-### Summary 
+## Summary 
 
 - **10-years experience**, first Marketing, then Tech Support, then Product Management;  
 - enjoy UX, QA, SQL, TTRPG; 
