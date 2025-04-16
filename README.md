@@ -14,7 +14,7 @@ This GitHub Read Me Read-Me ReadMe is intended for **software developers.** You 
 
 ### History
 
-My first tech job was Marketing, at a 20-year-old company of only 11 people, migrating on-premise regulatory software to cloud SaaS. The team taught me some hello-world JS, and why an adventurer would roll 2d6 rather than 1d12 (for **long-term investments in reliable results**). 
+My first tech job was Marketing, at a 20-year company of only 11 people, migrating on-premise regulatory software to cloud SaaS. The team taught me some hello-world JS, and why an adventurer would roll 2d6 rather than 1d12 (for **long-term investments in reliable results**). 
 
 I wrote a good joke about Jenkins. 🌱
 
@@ -34,9 +34,9 @@ When I write bug reports, I provide detailed **steps to recreate.**
 
 **To prioritize** bugs, backlogs, roadmaps, etc, I’ll need your help to define the Cost Of Doing Nothing and the Time To Insight.
 
-**To learn**, I love sandboxes, where I can `click first, ask questions later`. I’ll ask ‘false dichotomy’ brainstorm questions --- like _“would we rather deploy every single hour or only once per year?”_ --- often to ask whether it's the right question.
+**To learn**, I love sandboxes, where I can `click first; ask questions later`. I’ll ask ‘false dichotomy’ brainstorm questions --- like _“would we rather deploy every single hour or only once per year?”_ --- often to ask whether it's the right question.
 
-I always hope to learn **what you think** is most important, and which questions you need help answering. 💡
+I'll always am to hear **what you think** is most important, and which questions you need help answering. 💡
 
 ---
 
